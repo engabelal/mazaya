@@ -1,0 +1,120 @@
+/********************************************************
+Desined By  : Eng.Ahmed Belal
+Phone No    : 002-01111739993
+Coded By    : Eng.Islam Gomma
+Phone No    : 002-01091922275
+********************************************************/
+
+
+/*-------------**Start Global Definitions**-------------*/
+
+h1 {
+    font-family: "Monadi", "Helvetica Neue";
+}
+.before-h1 {
+    margin-left: 10px;
+}
+body {
+    font-family: "DroidKufi-Regular", "Helvetica Neue", tahoma;
+}
+
+/*-------------**End Global Definitions**-------------*/
+
+
+/*-------------**Start carousel**-------------*/
+
+.carousel-caption {
+    left: 40%;
+    right: auto;
+}
+.carousel-caption h3 {
+    font-family: "Monadi", "Helvetica Neue", tahoma;
+}
+.carousel-indicators {
+    cursor: pointer;
+}
+.carousel-caption p {
+    font-family: "JF-Flat", "Helvetica Neue", tahoma;
+}
+@media (max-width: 576px) {
+    .carousel-caption h3 {
+        font-size: 21px;
+    }
+    .carousel-caption {
+        left: 0;
+        max-width: 98%;
+    }
+}
+
+/*-------------**End carousel**-------------*/
+
+
+/*-------------**Start Navbar**-------------*/
+
+.mainNav .nav-link {
+    font-family: "JF-Flat", "Helvetica Neue", tahoma;
+    font-weight: bold;
+}
+
+/*-------------**ُEnd Navbar**-------------*/
+
+
+/*<!---------------**Start About**-----------------!>*/
+
+.about h3 {
+    font-family: "JF-Flat", "Helvetica Neue", tahoma;
+}
+.about p {
+    font-family: "DroidKufi-Regular", "Helvetica Neue", tahoma;
+}
+
+/*<!---------------**ُEnd About**-----------------!>*/
+
+
+/*-------------**End airline**-------------*/
+
+.card-offer .trip-status .col-7 {
+    padding: 0;
+}
+.card-offer .trip-status i {
+    margin-left: 7px;
+}
+.card-offer .card .more-dt .dt i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.card-offer .from-to .text-left {
+    text-align: right!important;
+}
+.card-offer .from-to .text-right {
+    text-align: left!important;
+}
+.card-offer .trip-status .btn {
+    padding: 6px 21px;
+}
+
+/*-------------**End airline**-------------*/
+
+
+/*-------------**End hotels offer**-------------*/
+
+.hotel-offer .hotelname {
+    padding-top: 15px;
+}
+
+/*-------------**End hotels offer**-------------*/
+
+.sp-offers .galary-img p {
+    letter-spacing: 0
+}
+
+/*-------------------------------End Sp_offers Section-----------------------------------*/
+
+
+/*Contact us*/
+
+.contact-us .contact-data .branchData i {
+    margin-left: 5px;
+}
+
+/*Contact us*/
